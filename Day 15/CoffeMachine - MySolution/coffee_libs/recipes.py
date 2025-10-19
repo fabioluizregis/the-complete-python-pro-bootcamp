@@ -1,7 +1,8 @@
 machine_recipes = {
-        "expresso" : {
+        "espresso" : {
             "water" : 50,
             "coffee" : 18,
+            "milk" : 0,
             "price" : 1.50
         },
         "latte" : {
