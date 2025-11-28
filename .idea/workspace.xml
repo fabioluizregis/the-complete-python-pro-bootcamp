@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c0ab09a-efbd-4658-bf04-f6de2a4f44cd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wroeAiV75ONiyRh3MUsGsw8ky0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.bmi_calculator.executor": "Run",
+    "Python.exercise.executor": "Run",
+    "Python.highest-scores.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.math_operations.executor": "Run",
+    "Python.modulo_operator.executor": "Run",
+    "Python.pizza-order-practice.executor": "Run",
+    "Python.project_band_name_generator.executor": "Run",
+    "Python.rock_paper_scisors.executor": "Run",
+    "Python.task-rollercoaster.executor": "Run",
+    "Python.task.executor": "Run",
+    "Python.tip_calculator.executor": "Run",
+    "Python.treasure_island.executor": "Run",
+    "Python.who_will_pay_the_bill.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/fabioregis/Fabio/github-projects/the-complete-python-pro-bootcamp",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4091954",
+    "settings.editor.selected.configurable": "preferences.customizations"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c0ab09a-efbd-4658-bf04-f6de2a4f44cd" name="Changes" comment="" />
+      <created>1746809146801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746809146801</updated>
+    </task>
+    <servers />
+  </component>
+</project>
